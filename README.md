@@ -1,14 +1,14 @@
 # flutter_secure_content
 
-A new flutter plugin project.
+Flutter Plugin to secure content from screenshots or screen Recording.
 
 ## Getting Started
+For Android 
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+FLAG_SECURE is used to mark content as secure and restrict screen recording.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+For IOS
+
+This package till now doesn't support ios secure content. 
+IOS support will be updated soon.
