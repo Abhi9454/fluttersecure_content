@@ -1,7 +1,7 @@
 name: flutter_secure_content
 description: Flutter plugin to secure content from screenshot or screen recording.
 version: 0.0.1
-homepage: https://github.com/Abhi9454/secure_window_flutter
+homepage: https://github.com/Abhi9454/fluttersecure_content
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
